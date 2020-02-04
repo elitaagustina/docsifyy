@@ -2,7 +2,7 @@
 
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script
 
-[![Berkenalan dengan Indonesia Digital car - Indicar](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=cNClCOMj1Do t=3s "Berkenalan dengan Indonesia Digital Car - Indicar")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
     ANTARES merupakan sebuah Horizontal IoT Platform, yang berarti kami mencoba untuk 
     menjadikan layanan kami se-umum mungkin agar solusi vertikal IoT anda dapat \
