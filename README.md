@@ -2,7 +2,7 @@
 
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=U-8iR2dyX6g)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
     ANTARES merupakan sebuah Horizontal IoT Platform, yang berarti kami mencoba untuk 
     menjadikan layanan kami se-umum mungkin agar solusi vertikal IoT anda dapat \
