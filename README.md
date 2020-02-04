@@ -1,6 +1,6 @@
  Pendahuluan
 
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script
 
 [![Berkenalan dengan Indonesia Digital car - Indicar](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=cNClCOMj1Do t=3s "Berkenalan dengan Indonesia Digital Car - Indicar")
 
